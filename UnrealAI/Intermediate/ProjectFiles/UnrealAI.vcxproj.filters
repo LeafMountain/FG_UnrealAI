@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealAI.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4A44A248-3567-45FF-9D14-63133AAF6092}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealAI.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealAIEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{501BB08A-7A19-4431-9EBC-5D6E0CDE3F0E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealAI">
+      <UniqueIdentifier>{1C194542-6E3F-420C-A738-6294233FE085}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealAI\UnrealAI.Build.cs">
+      <Filter>Source\UnrealAI</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealAI\UnrealAI.cpp">
+      <Filter>Source\UnrealAI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAI\UnrealAI.h">
+      <Filter>Source\UnrealAI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealAI\UnrealAICharacter.cpp">
+      <Filter>Source\UnrealAI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAI\UnrealAICharacter.h">
+      <Filter>Source\UnrealAI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealAI\UnrealAIGameMode.cpp">
+      <Filter>Source\UnrealAI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAI\UnrealAIGameMode.h">
+      <Filter>Source\UnrealAI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealAI\UnrealAIPlayerController.cpp">
+      <Filter>Source\UnrealAI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealAI\UnrealAIPlayerController.h">
+      <Filter>Source\UnrealAI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

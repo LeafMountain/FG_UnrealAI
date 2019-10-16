@@ -1,0 +1,2 @@
+C:\Users\Lovberg\Projects\FutureGames\UnrealPatrolAI\UnrealAI\Intermediate\Build\Win64\UE4Editor\Development\UnrealAI\Definitions.UnrealAI.h
+C:\Users\Lovberg\Projects\FutureGames\UnrealPatrolAI\UnrealAI\Source\UnrealAI\UnrealAI.h

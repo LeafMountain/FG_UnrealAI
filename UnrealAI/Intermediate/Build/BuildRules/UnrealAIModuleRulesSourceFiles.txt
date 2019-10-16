@@ -1,0 +1,3 @@
+C:\Users\Lovberg\Projects\FutureGames\UnrealPatrolAI\UnrealAI\Source\UnrealAI\UnrealAI.Build.cs
+C:\Users\Lovberg\Projects\FutureGames\UnrealPatrolAI\UnrealAI\Source\UnrealAI.Target.cs
+C:\Users\Lovberg\Projects\FutureGames\UnrealPatrolAI\UnrealAI\Source\UnrealAIEditor.Target.cs
